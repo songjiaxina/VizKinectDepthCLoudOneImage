@@ -11,7 +11,7 @@ import pptk
 """
 author:songjiaxina@gmail.com
 data:2019/04/28
-visualize pointcloud from kinect depth image and rgb using open3d
+visualize pointcloud from kinect depth image and rgb using pptk
 """
 
 # camera intrinsics.  modify them
